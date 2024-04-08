@@ -1,0 +1,14 @@
+1. to make requirements.txt
+pip freeze > requirements.txt
+2. install dependencies:
+pip install -r equirements.txt
+
+3. install torch-geometric manual: i don't know why i can not setup by pip
+3.1. download: https://files.pythonhosted.org/packages/2b/52/e6d298d328858aaebf91ca78d81195e3ccaa99ba3b33b0ffc0af5ec0c86d/torch_geometric-2.5.2.tar.gz
+3.2. setup: py -m pip install torch_geometric-2.5.2.tar.gz
+
+4. install pycairo:
+4.1. sudo apt-get install python3-dev libcairo2-dev
+4.2. install: pip install pycairo --no-cache-dir
+
+
