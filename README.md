@@ -10,3 +10,6 @@ pip will use setup.py to install your module. Avoid calling setup.py directly.
 ## install pycairo:
 ##### sudo apt-get install python3-dev libcairo2-dev
 ##### install: pip install pycairo --no-cache-dir
+
+## How to run?
+run: visualization.py
