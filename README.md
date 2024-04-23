@@ -12,4 +12,9 @@ pip will use setup.py to install your module. Avoid calling setup.py directly.
 ##### install: pip install pycairo --no-cache-dir
 
 ## How to run?
-run: visualization.py
+### visualization.py
+
+![image](https://github.com/thinhdoanvu/Graph-Convolutional-Network/assets/22977443/93436a75-32d9-4c88-b59d-a4038fcc5b89)
+
+### nodeclassify.py
+Results in figures
