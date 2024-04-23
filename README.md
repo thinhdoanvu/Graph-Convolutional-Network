@@ -18,3 +18,5 @@ pip will use setup.py to install your module. Avoid calling setup.py directly.
 
 ### nodeclassify.py
 Results in figures
+
+![image](https://github.com/thinhdoanvu/Graph-Convolutional-Network/assets/22977443/33c74d7d-01fc-42c2-acff-f36773a6058f)
